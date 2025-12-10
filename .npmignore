@@ -1,0 +1,30 @@
+# Source files
+src/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+ng-package.json
+.editorconfig
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+
+# Tests
+*.spec.ts
+*.test.ts
+
+# CI
+.github/
+.travis.yml
+.gitlab-ci.yml
+
+# Docs (keep README)
+docs/
+examples/
