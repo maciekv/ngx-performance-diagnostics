@@ -16,12 +16,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ngx-performance-diagnostics.git"
+    "url": "https://github.com/maciekv/ngx-performance-diagnostics.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ngx-performance-diagnostics/issues"
+    "url": "https://github.com/maciekv/ngx-performance-diagnostics/issues"
   },
-  "homepage": "https://github.com/yourusername/ngx-performance-diagnostics#readme",
+  "homepage": "https://github.com/maciekv/ngx-performance-diagnostics#readme",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
