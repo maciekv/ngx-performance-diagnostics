@@ -461,7 +461,7 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ngx-performance-diagnostics.git
+git clone https://github.com/maciekv/ngx-performance-diagnostics.git
 cd ngx-performance-diagnostics
 
 # Install dependencies
@@ -478,7 +478,7 @@ npm test
 
 ## 📝 License
 
-MIT © [Your Name]
+MIT © [Maciej Osytek]
 
 ---
 
@@ -490,9 +490,9 @@ Built for the Angular community with ❤️
 
 ## 📞 Support
 
-- 🐛 [Report Issues](https://github.com/yourusername/ngx-performance-diagnostics/issues)
-- 💬 [Discussions](https://github.com/yourusername/ngx-performance-diagnostics/discussions)
-- 📖 [Documentation](https://github.com/yourusername/ngx-performance-diagnostics/wiki)
+- 🐛 [Report Issues](https://github.com/maciekv/ngx-performance-diagnostics/issues)
+- 💬 [Discussions](https://github.com/maciekv/ngx-performance-diagnostics/discussions)
+- 📖 [Documentation](https://github.com/maciekv/ngx-performance-diagnostics/wiki)
 
 ---
 
