@@ -1,6 +1,6 @@
 {
   "name": "ngx-performance-diagnostics",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Angular library for detecting performance issues, change detection cycles, and memory leaks",
   "keywords": [
     "angular",
