@@ -1,6 +1,6 @@
 {
   "name": "ngx-performance-diagnostics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Angular library for detecting performance issues, change detection cycles, and memory leaks",
   "keywords": [
     "angular",
@@ -22,17 +22,6 @@
     "url": "https://github.com/maciekv/ngx-performance-diagnostics/issues"
   },
   "homepage": "https://github.com/maciekv/ngx-performance-diagnostics#readme",
-  "main": "dist/index.js",
-  "module": "dist/index.mjs",
-  "types": "dist/index.d.ts",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "esm2022": "./dist/esm2022/index.mjs",
-      "es2020": "./dist/esm2020/index.mjs",
-      "default": "./dist/index.mjs"
-    }
-  },
   "scripts": {
     "build": "ng-packagr -p ng-package.json",
     "pack": "npm run build && cd dist && npm pack",
